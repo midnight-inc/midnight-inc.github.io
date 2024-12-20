@@ -1,4 +1,4 @@
-name: Deploy Zola site to Pages
+name: Build and deploy GH Pages
 
 on:
   push:
@@ -7,12 +7,13 @@ on:
 
 jobs:
   deploy:
+    name: Publish site
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v4
       - name: Build and deploy
-        uses: shalzz/zola-deploy-action@v0.17.2-1
+        uses: shalzz/zola-deploy-action@v0.19.2
         env:
           PAGES_BRANCH: gh-pages
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
