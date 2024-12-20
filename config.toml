@@ -39,7 +39,7 @@ anchors = "on"
 blog_name = "Midnight's Pages"
 author = "Midnight M."
 bio = "A cat that cooks"
-avatar = "img/midnight-banner.webp"
+avatar = "/img/cat.jpeg"
 # Set banners
 links = [
     #{ name = "GitHub", icon = "github", url = "https://github.com/midnight-inc" },
@@ -87,7 +87,7 @@ not_found_recover_text = "« back to home »"
 ## Open Graph
 [extra.seo]
 # this image will be used as fallback if a page has no image of its own
-image = "img/midnight-banner.webp"
+image = "/img/cat.jpeg"
 image_height = 0
 image_width = 0
 og_locale = "en_US"
