@@ -17,17 +17,3 @@ comment = false
 
 > **Crispy, Cheesy Pizza Perfection** – This homemade pizza features a soft, chewy crust topped with a rich, flavorful tomato sauce and oozing mozzarella cheese. With a sprinkle of sesame seeds for a crunchy edge and a drizzle of olive oil to finish, it’s a slice of heaven in every bite. Simple ingredients, big flavor – bake up a pizza that's sure to impress!
 
-
-## Healthy and Tasty.
-
-[Recipe No. 2](https://ojeda-e.com)
-
-> Short description no. 2 with more blah blah.
-
-## Latin American Food.
-
-[Recipe No. 3](https://ojeda-e.com)
-
-> Short description
-
-
