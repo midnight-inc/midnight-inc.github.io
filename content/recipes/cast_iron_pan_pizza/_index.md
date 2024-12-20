@@ -48,14 +48,14 @@ There are two parts:
 
 ### Instructions
 
-1. **Prepare the water**: Boil water to 75°C (167°F), then dissolve the salt in it. Allow the water to cool to below 50°C (122°F) to avoid killing yeast.
-2. **Mix the dough**: In a large bowl, combine the bread flour, yeast, water, and olive oil. Mix by hand or with a spoon until the dough comes together. It should be slightly wet and sticky. If the dough feels too dry, add a small amount of water.
-3. **First proof**: Lightly coat a cast iron pan with olive oil. Place the dough in the pan, cover it with a towel, and proof it in an oven set to about 95°F (35°C) until the dough rises slightly.
-4. **Shape the dough**: Once the dough has risen a bit, gently press it out to the edges of the pan. Continue proofing for about 1 hour, allowing the dough to rise further.
-5. **Add toppings**: After the dough has risen, press sesame seeds lightly into the edges. Add sauce as desired, and evenly distribute the mozzarella chunks over the surface of the pizza.
-6. **Preheat the oven**: Preheat your oven to 550°F (290°C). Place a small pot of water inside the oven to create steam.
-7. **Bake**: Bake the pizza on the bottom rack for 12–15 minutes, or until the cheese is browned and the crust is crispy.
-8. **Serve**: Drizzle with olive oil and sprinkle with additional salt if desired. Enjoy!
+1. Boil water to 75°C (167°F), then dissolve the salt in it. Allow the water to cool to below 50°C (122°F) to avoid killing yeast.
+2. In a large bowl, combine the bread flour, yeast, water, and olive oil. Mix by hand or with a spoon until the dough comes together. It should be slightly wet and sticky. If the dough feels too dry, add a small amount of water.
+3. Lightly coat a cast iron pan with olive oil. Place the dough in the pan, cover it with a towel, and proof it in an oven set to about 95°F (35°C) until the dough rises slightly.
+4. Once the dough has risen a bit, gently press it out to the edges of the pan. Continue proofing for about 1 hour, allowing the dough to rise further.
+5. After the dough has risen, press sesame seeds lightly into the edges. Add sauce as desired, and evenly distribute the mozzarella chunks over the surface of the pizza.
+6. Preheat your oven to 550°F (290°C). Place a small pot of water inside the oven to create steam.
+7. Bake the pizza on the bottom rack for 12–15 minutes, or until the cheese is browned and the crust is crispy.
+8. Drizzle with olive oil and sprinkle with additional salt if desired. Enjoy!
 
 ## Sauce
 
